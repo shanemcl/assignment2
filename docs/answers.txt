@@ -1,3 +1,8 @@
+Date I went through Git Lab Tutorials: 10-25-24
+Date I setup the GitHub Account: 2 or 3 years ago :D!
+Date I setup the GitHub Repo: 10-25-24
+
+
 1. Enumerating objects: 9, done.
 Counting objects: 100% (9/9), done.
 Delta compression using up to 8 threads

@@ -1,0 +1,33 @@
+1. Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 815 bytes | 815.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To https://github.com/shanemcl/assignment2
+   f4975e5..3b99909  master -> master
+
+2. 9! and the command used was git rev-list --count --all
+
+3. Date:   Fri Oct 25 10:00:47 2024 -0400 and the command used was
+git log -1 README.md
+
+4.1 To allow parallel development of features without affecting our main codebase
+
+4.2 Provides isolation for testing new features and things before merging!
+
+5. Git log shows the commit history and changes over time while git status 
+shows the current state of your working directory and staging area!
+
+6. git log -- Vehicle.h
+
+7. git log --grep="file" 
+
+8. Inheritance is a feature in OOP that allows a class to inherit properties or methods from another class
+Polymorphism is the capability of different classes to be treated as instances of the same class through a shared interface!
+Encapsulation is putting all the data and methods that operate on the data within a single class so you can hide the important data while still providing an interface for interacting with it!
+
+9.The main difference between the two workflows is in the Dictator workflow there are multiple levels of integration, with lieutenants managing the developers beneath them, before the dictator does the final integration, while in the integration manager workflow there is just one level of integration with the integration manager overseeing the centralized integration!
+
+10.A large team like that would benefit from using the dictator and lieutenant workflow because if you used the centralized workflow there would be lots of bottle necks in the merge process and for a large team like this the dictator and lieutenant method scales much better!
